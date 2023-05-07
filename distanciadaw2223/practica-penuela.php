@@ -1,5 +1,7 @@
 <?php
 
+// Modificacion de la activadad 2.3
+
 /**
  * Función que devuelve la operación que escojamos entre dos números, puede
  * ser sumar, restar, multiplicar o dividir.
